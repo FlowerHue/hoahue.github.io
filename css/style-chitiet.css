@@ -1,0 +1,27 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Chakra+Petch:wght@300;400;600;700&family=Poppins:wght@400;600;700&family=Rajdhani:wght@300;400;500;600;700&family=Russo+One&family=Wallpoet&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Chakra+Petch:wght@300;400;600;700&family=Kanit:wght@400;500;600;700;800&family=Poppins:wght@400;600;700&family=Rajdhani:wght@300;400;500;600;700&family=Russo+One&family=Wallpoet&display=swap');
+/* CSS Document */
+.chitiet img{
+	width: 100%;
+}
+.chitiet1{
+	width: 120%;
+}
+/*
+.nd{
+	width: 300px;
+	height: 150px;
+	background-color:cadetblue;
+}
+*/
+.nd p{
+	margin: 30px 20px;
+	color: saddlebrown;
+}
+.text h3{
+	padding-bottom: 20px;
+	font-family: kanit;
+	font-size: 30px;
+	color:seagreen;
+}

@@ -1,0 +1,375 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Chakra+Petch:wght@300;400;600;700&family=Poppins:wght@400;600;700&family=Rajdhani:wght@300;400;500;600;700&family=Russo+One&family=Wallpoet&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Chakra+Petch:wght@300;400;600;700&family=Kanit:wght@400;500;600;700;800&family=Poppins:wght@400;600;700&family=Rajdhani:wght@300;400;500;600;700&family=Russo+One&family=Wallpoet&display=swap');
+/* CSS Document */
+
+.active{
+	position: relative;
+}
+.label2 h5{
+	position: absolute;
+	top: 40%;
+	left: 20%;
+	font-size: 80px;
+}
+h5{
+	font-family: kanit;
+	font-size: 80px;
+	font-weight: 700px;
+	margin-bottom: 500px;
+	color:ghostwhite;
+	 text-shadow: 0 0 10px #FF0000;
+}
+.icon{
+/*	color:crimson;*/
+	text-align: center;
+	padding-top: 20px;
+}
+.icon i{
+	color: crimson;
+	
+}
+.icon h1{
+	color: crimson;
+	font-family: Kanit;
+	font-weight: 700px;
+	font-size: 20px;
+}
+.icon p{
+	color: darkgrey!important;
+	font-family: kanit;
+	font-weight: 400px;
+	font-size: 16px;
+/*	border-radius: 10px;*/
+}
+/*
+.btn{
+	color: antiquewhite;
+	width: 110px;
+	height: 30px;
+	background-color:burlywood;
+	border: 1px solid #E15153;
+}
+.btn:hover{
+	background-color:cornflowerblue;
+}
+*/
+.text{
+	text-align: center;
+	padding-top: 40px;
+	
+}
+.text p{
+	font-family: kanit;
+	font-size: 16px;
+	color: crimson;
+}
+.text h2{
+	font-family: kanit;
+	font-size: 40px;
+	margin-bottom: 40px;
+	line-height: 50px;
+	color: darkslateblue;
+}
+.hinhanh{
+	text-align: center;
+}
+.hinhanh img{
+	width: 100%;
+}
+.sao{
+	color: coral;
+}
+.sao1{
+	color: darkgray;
+}
+.sao2{
+	color: coral;
+	margin-left:50px;
+}
+.b{
+	margin-bottom: 20px;
+	margin-top: 10px;
+	width: 120px;
+	height: 40px;
+	color: white;
+	background-color:orangered;
+	border: 1px solid grey;
+	border-radius: 6px;
+}
+.b:hover{
+	background-color: cornflowerblue;
+}
+.bt{
+	width: 150px;
+	height: 40px;
+	background-color: orangered;
+	margin: 20px 600px;
+	border: none;
+	border-radius: 10px;
+	color: aliceblue;
+	margin-bottom: 20px;
+}
+.bt:hover{
+	background-color:cadetblue;
+}
+.hinhanh p{
+	padding: 0 60px;
+	font-family: kanit;
+	font-size: 16px;
+}
+
+.hinhanh img{
+	transition: width 2s, height 2s;
+}
+/*
+.hinhanh:hover{
+	width: 10%;
+	height: 10%;
+}*/
+.dv{
+	padding-bottom: 30px;
+}
+.hinh1{
+	color: white!important;
+/*	background-image: url("../image/hoguom.png");*/
+	background-color:darkslateblue;
+}
+.sao3{
+	font-size: 40px;
+	color: orangered;
+}
+.hinh1:hover{
+	background-color:darkseagreen;
+}
+.hinh1 i{
+	padding-top: 10px;
+	font-size: 40px;
+	color: white!important;
+}
+.hinh2{
+	color: white;
+	background-color:cadetblue;
+}
+.hinh2 i{
+	padding-top: 10px;
+	font-size: 40px;
+}
+.hinh2:hover{
+	background-color:brown
+}
+.hinh3{
+	color: white;
+	background-color:darkgoldenrod;
+}
+.hinh3 i{
+	padding-top: 10px;
+	font-size: 40px;
+}
+.hinh3:hover{
+	background-color: antiquewhite;
+}
+.tx{
+	padding: 40px;
+}
+.tx h3{
+	font-family: Kanit;
+	font-weight: 700px;
+	line-height: 50px;
+	font-size: 40px;
+}
+.tx p{
+	padding-top: 20px;
+	font-family: kanit;
+	font-size: 16px;
+	font-weight: 400px;
+	color: grey;
+}
+.chamtron i{
+	color: hotpink;
+	padding: 10px 30px;
+}
+.solieu{
+	background-color: teal;
+	padding: 40px 0px;
+	text-align: center;
+}
+.solieu i{
+	font-size: 60px;
+    
+}
+.solieu h4{
+	font-family: kanit;
+	font-size: 40px;
+	font-weight: 700px;
+}
+.solieu p{
+	font-family: kanit;
+	font-size: 25px;
+	font-weight: 600px;
+}
+.ser{
+	position: relative;
+	overflow: hidden;
+}
+.ser p{
+	font-family: kanit;
+	font-size: 30px;
+	color:gold;
+}
+.ser img{
+	width:100%;
+	opacity: 1;
+	transition: all 0.3s ease;
+}
+.ser:hover img{
+	opacity: 0.5;
+	transform: scale(1.1);
+}
+.label{
+	position: absolute;
+	top:40%;
+	left: 30%;
+	color: white;
+	
+}
+.label p{
+	font-family:Kanit;
+	font-weight: 700px;
+	font-size: 40px;
+	color: red;
+}
+.place{
+	overflow: hidden;
+}
+.place img{
+	width: 100%;
+	transition: all 0.3s ease;
+}
+.place:hover img{
+	transform: scale(1.1);
+}
+.place p{
+	font-family:Kanit;
+	font-weight: 400px;
+	font-size: 16px;
+	color: cadetblue
+}
+ a.hovertext {
+    position: relative;
+/*    width: 500px;*/
+    text-decoration: none !important;
+    text-align: center;
+  }
+  a.hovertext::after {
+    content: attr(title);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 0.5em 20px;
+/*    width: 460px;*/
+    background: rgba(0,0,0,0.8);
+    text-decoration: none !important;
+    color: #fff;
+    opacity: 0;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    -ms-transition: 0.5s;
+  }
+  a.hovertext:hover::after, a.hovertext:focus::after {
+    opacity: 1.0;
+  }
+.luhanh img{
+	opacity: 1;
+	width: 100%;
+}
+.luhanh:hover img{
+	opacity: 0.7;
+}
+
+.form{
+	color:darkred;
+/*	background-color: blanchedalmond;*/
+}
+.footer{
+background-color:darkturquoise;
+width: 100vw;
+}
+.footer p{
+	font-family: Kanit;
+	font-size: 30px;
+	font-weight: 600px;
+	text-align: center;
+}
+.item{
+	font-size: 30px;
+	text-align: center;
+	margin: 40px;
+	color:black;
+}
+.form-control{
+	margin-top: 20px;
+}
+
+.h{
+	background-image: url("../image/bg.jpg");
+	padding-top: 10px;
+	
+}
+#myBtn {
+display: none;
+position: fixed;
+bottom: 60px;
+right: 10px;
+z-index: 99;
+border: none;
+outline: none;
+background-color: #fff;
+border: 2px solid #ccc;
+color: black;
+cursor: pointer;
+border-radius: 30px;
+opacity: 0.7;
+}
+ 
+#myBtn:hover {
+background-color:darkorange;
+}
+#myBtn i{
+	font-size: 20px;
+}
+
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.searchTerm {
+  width: 100%;
+  border: 3px solid #00B4CC;
+  border-right: none;
+  padding: 5px;
+  height: 36px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: #9DBFAF;
+}
+
+.searchTerm:focus{
+  color: black;
+}
+
+.searchButton {
+  width: 100px;
+  height: 36px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 18px;
+}
+
